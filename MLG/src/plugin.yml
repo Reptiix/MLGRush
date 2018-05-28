@@ -1,0 +1,10 @@
+name: MLGRush
+author: Reptiix
+version: 0.3
+main: de.mr.main.MLGRush
+commands:
+  mrset:
+  mrbuild:
+  mrtranslate:
+  mrhelp:
+  stats:
